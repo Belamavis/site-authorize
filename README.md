@@ -1,3 +1,3 @@
 # Авторизация на сайте
 
-https://github.com/Belamavis/site-authorize
+http://programmer-weekdays.ru/archives/301
