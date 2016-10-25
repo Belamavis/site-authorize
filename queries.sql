@@ -1,0 +1,9 @@
+CREATE DATABASE authorize;
+
+CREATE TABLE users (
+  id INT(5) NOT NULL AUTO_INCREMENT,
+  login VARCHAR(15) DEFAULT '0' ,
+  password VARCHAR(15) DEFAULT '0' ,
+  PRIMARY KEY (id)
+);
+
